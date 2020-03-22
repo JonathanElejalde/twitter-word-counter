@@ -1,0 +1,6 @@
+prueba.py
+.idea
+__pycache__
+credentials.py
+.vscode
+venv
