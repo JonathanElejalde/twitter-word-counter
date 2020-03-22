@@ -6,4 +6,4 @@ To start the app we run it in the command line, and we pass the username from wh
 ## Exemple
 C:\\...\python get_tweets.py @JonathanElejald
 
-[https://www.youtube.com/watch?v=E6DNujQEmds&t] (Here is a video where you can see how was the building process)
+[Here is a video where you can see how was the building process](https://www.youtube.com/watch?v=E6DNujQEmds&t)
